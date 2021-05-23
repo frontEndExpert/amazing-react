@@ -11,7 +11,7 @@ const Content = () => {
 <main className="content" >
     <div className="story">
         <div className="mypic">
-            <img src="images/aylon.jpg" width="180px" alt="Aylon" />
+            <img src="../images/aylon.jpg" width="180px" alt="Aylon" />
         </div>
         <div className="mystory">
             <p>Hi, I’m Aylon. For years I had 2 different passions: 
@@ -34,19 +34,19 @@ to answer your questions and see if it is the right fit.  </p>
     </div>
     <div className="pics">
         <figure>
-            <img src="images/family1.jpg" height="auto" width="350px" alt="mountain trip" />
+            <img src="../images/family1.jpg" height="auto" width="350px" alt="mountain trip" />
             <figcaption>This shot was also taken on the mountains.</figcaption>
         </figure>
         <figure>
-            <img src="images/family2.jpg" height="220px" width="350" alt="amazing life - Disney trip." />
+            <img src="../images/family2.jpg" height="220px" width="350" alt="amazing life - Disney trip." />
             <figcaption>Here we are on a trip to Disney Land.</figcaption>
         </figure>
         <figure>
-            <img src="images/family3.jpg" height="370px" width="auto" alt="Amazing Life - My Little Ella" />
+            <img src="../images/family3.jpg" height="370px" width="auto" alt="Amazing Life - My Little Ella" />
             <figcaption>My little one Ella. She's now 5 years old and all that we doing is for her present and future</figcaption>
         </figure>
         <figure>
-            <img src="images/family4.jpg" height="370px" width="auto" alt="Amazing life solutions - trip in the mountains in Thailand" />
+            <img src="../images/family4.jpg" height="370px" width="auto" alt="Amazing life solutions - trip in the mountains in Thailand" />
             <figcaption>Fun times in the mountains of northern Thailand.</figcaption>
         </figure>         
     </div>
@@ -64,7 +64,7 @@ to answer your questions and see if it is the right fit.  </p>
         { isMobile &&
         <div> 
             <figure> 
-                <img src="images/taniastapp.jpg" width="160px" height="160px" alt="Tania Stapp" />
+                <img src="../images/taniastapp.jpg" width="160px" height="160px" alt="Tania Stapp" />
                 <figcaption>Tania Stapp</figcaption>
             </figure> 
             <blockquote>
@@ -77,7 +77,7 @@ to answer your questions and see if it is the right fit.  </p>
                 “I made a strategic choice to start this business because ‘everything was probable’ - the lifestyle, time and financial freedom, my dreams and passions, a structure and system set up for success, and where people understood and were ‘speaking the same language’ about the mind, personal development, and psychology. When I applied this learning, I consciously created a ‘new normal’ across key areas of my life including earning in a month what I had previously earned in a year. I am proud of the businesswoman I am becoming, It’s exciting having the vehicle to be all of me, and this is just the start...”
             </blockquote>
             <figure> 
-                <img src="images/taniastapp.jpg" width="160px" height="160px" alt="Tania Stapp" />
+                <img src="../images/taniastapp.jpg" width="160px" height="160px" alt="Tania Stapp" />
                 <figcaption>Tania Stapp</figcaption>
             </figure> 
         </div>}
@@ -85,7 +85,7 @@ to answer your questions and see if it is the right fit.  </p>
 
         <div>
             <figure> 
-                <img src="images/howardhughes.jpg" width="160px" height="160px" alt="Howard Hughes"  />
+                <img src="../images/howardhughes.jpg" width="160px" height="160px" alt="Howard Hughes"  />
                 <figcaption>Howard Hughes</figcaption>
             </figure>             
             <blockquote>
