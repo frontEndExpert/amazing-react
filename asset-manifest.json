@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazing-react/static/css/main.780223f3.chunk.css",
+    "main.js": "/amazing-react/static/js/main.4d176f55.chunk.js",
+    "main.js.map": "/amazing-react/static/js/main.4d176f55.chunk.js.map",
+    "runtime-main.js": "/amazing-react/static/js/runtime-main.7ed147a9.js",
+    "runtime-main.js.map": "/amazing-react/static/js/runtime-main.7ed147a9.js.map",
+    "static/js/2.541bd564.chunk.js": "/amazing-react/static/js/2.541bd564.chunk.js",
+    "static/js/2.541bd564.chunk.js.map": "/amazing-react/static/js/2.541bd564.chunk.js.map",
+    "static/js/3.f16b599d.chunk.js": "/amazing-react/static/js/3.f16b599d.chunk.js",
+    "static/js/3.f16b599d.chunk.js.map": "/amazing-react/static/js/3.f16b599d.chunk.js.map",
+    "index.html": "/amazing-react/index.html",
+    "static/css/main.780223f3.chunk.css.map": "/amazing-react/static/css/main.780223f3.chunk.css.map",
+    "static/js/2.541bd564.chunk.js.LICENSE.txt": "/amazing-react/static/js/2.541bd564.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed147a9.js",
+    "static/js/2.541bd564.chunk.js",
+    "static/css/main.780223f3.chunk.css",
+    "static/js/main.4d176f55.chunk.js"
+  ]
+}
